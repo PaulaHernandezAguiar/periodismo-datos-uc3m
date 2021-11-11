@@ -33,7 +33,6 @@ recordar toda la información sobre lo que quiere explicar. Además, aunque no s
 lea el artículo o no sea experto en el tema, solo con mirar la infografía se pueda 
 entender la existencias de estas islas hace 130 millones de años.
 
-
 ## [INFOGRAFIA 2](https://twitter.com/PedroParedesDC/status/1442065230285189120/photo/1)
 Al igual que la Infografía anterior, esta se trata de una visualización adecuada ya que con una mirada rápida por encima se puede apreciar los datos y la información más importante que se pretende explicar. Sin embargo, en esta en concreto podemos encontrar más fallos que la anterior, la elección de los colores no se podría considerar adecuada ya que el poner un color
 tan oscuro como el negro y encima los dibujos de otro color tan llamativo como el
@@ -66,6 +65,4 @@ reconocidos y admirados no significan que tienen que ser perfectas (el segundo
 ejemplo) pero sí de gran calidad (el primer ejemplo). Se puede apreciar las largas
 horas de trabajo que fueron necesarias para la creación de las mismas y que
 buscaron maneras de hacerlas llamativas y conseguir que el lector se interese por
-ellas y las lea y aprenda sobre los datos expuestos.         
-
-
+ellas y las lea y aprenda sobre los datos expuestos.     
