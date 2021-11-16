@@ -1,3 +1,4 @@
+# Práctica 2
 ## [INFOGRAFIA 1](https://64.media.tumblr.com/d8aa32550f759e8af7315a3b946ae7d1/028d9187f24eadc7-89/s1280x1920/47b76b379b8d2bada1e72c7036c62a62680a5ce6.png)
 En primer lugar, se analizarán los elementos externos y físicos de la infografía. 
 El uso del mapa a color de las Islas Canarias es un recurso acertado por parte del 
