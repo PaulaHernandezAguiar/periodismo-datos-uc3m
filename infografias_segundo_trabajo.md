@@ -6,7 +6,7 @@
 En primer lugar, se analizarán los elementos externos y físicos de la infografía. 
 El uso del mapa a color de las Islas Canarias es un recurso acertado por parte del 
 autor porque permite crear más contexto a la información y que quede visualmente 
-más llamativo por lo que llame al lector y este decida leerla. A su vez, también 
+más llamativo por lo que llame al lector y este decida leerla. Aunque se trata de un mapa y, evidentemente se trata de los colores de la naturaleza, la extensión del azul es perfecta ya que según los estudios el color azul es el favorito de la gran parte de la población, por eso se utiliza mucho en marcas. A su vez, también 
 es apropiado la utilización de pequeños recuadros de rojo enumerados del 1 al 4 
 para seguir un orden lógico en la infografía y evitar confusiones o malentendidos. 
 Estos cuadrados aportan gran parte de la información de manera directa, resumida y 
@@ -24,8 +24,7 @@ Por otro lado, en la parte derecha de la infografía aparece
 otra pequeña infografía que explica acertadamente la "Teoría de la línea caliente 
 sobre el origen de las Islas". Aparecen distintas explicaciones y distintos mapas 
 que representa el tamaño y el crecimiento de las islas en los diferentes millones 
-de años. En cuanto a la letra, el autor hace una buena utilización del tipo de 
-letra porque no crea confusión sino que acompaña a la información, lo mismo hace 
+de años. En cuanto a la letra, el autor hace una buena utilización de la tipografía porque no crea confusión sino que acompaña a la información, como meciona un artículo publicado en Wordpress sobre los tipos de letras que utilizan los periodicos españoles, 'Helvética' es perfecta para la transmisión de la información. Lo mismo hace 
 el autor con la negrita que adecuadamente solo escoge en los títulos y en los 
 datos más importantes o impactantes.
 
@@ -40,14 +39,12 @@ entender la existencias de estas islas hace 130 millones de años.
 ## Infografía 2
 [Enlace a la fuente de Twitter](https://twitter.com/PedroParedesDC/status/1442065230285189120/)
 ![Restricciones cuarentena](/img/restricciones_cuarentena.jpg)
-Al igual que la Infografía anterior, esta se trata de una visualización adecuada ya que con una mirada rápida por encima se puede apreciar los datos y la información más importante que se pretende explicar. Sin embargo, en esta en concreto podemos encontrar más fallos que la anterior, la elección de los colores no se podría considerar adecuada ya que el poner un color
-tan oscuro como el negro y encima los dibujos de otro color tan llamativo como el
-naranja, puede resultar molesto para los ojos. No obstante, aunque el color ha
-sido un pequeño fallo, la letra ha sido seleccionada adecuadamente porque queda
-todo claro y la utilización de negrita solamente en las palabras claves permite
+Al igual que la infografía anterior, esta se trata de una visualización adecuada ya que con una mirada rápida por encima se puede apreciar los datos y la información más importante que se pretende explicar. Sin embargo, en esta en concreto podemos encontrar más fallos que la anterior, la elección de los colores no se podría considerar adecuada ya que el poner un color tan oscuro como el negro y encima los dibujos de otro color tan llamativo como el
+naranja, puede resultar molesto para los ojos. Además, los estudios defiende que la utilización del negro no suele ser correcta porque tiene connotaciones muy negativas. No obstante, aunque el color ha
+sido un pequeño fallo, la letra ha sido seleccionada adecuadamente (la misma tipografía que la primera visualización) porque queda todo claro y la utilización de negrita solamente en las palabras claves permite
 ver rápidamente los datos esenciales. Otro recurso negativo es que queda algo
-confuso el inicio y el final porque no se especifica, lo que dificulta un poco el
-entendimiento de la infografía. Por otra parte, el autor selecciona adecuadamente
+confuso el inicio y el final porque no se especifica, y en esto repiten continuamente que hay que diferenciarlo cuando se trata de una infografía circular, lo que dificulta un poco el
+entendimiento. Por otra parte, el autor selecciona adecuadamente
 los dibujos porque resumen la acción que describen las palabras, por lo tanto al
 mirar solo los dibujos nos hacemos una idea de los datos que ofrece.
 
@@ -58,12 +55,12 @@ aportan gran profundización que acompaña a la noticia. En definitiva, sí se t
 de una infografía oportuna que consigue su misión de informar de una manera rápida
 a los lectores y está expuesta de una manera llamativa. De la misma manera,
 consigue resumir en poco espacio mucha información, lo cual es muy positivo. No
-obstante la utilización de los colores ya mencionados es un gran fallo porque
+obstante, la utilización de los colores ya mencionados es un gran fallo porque
 cuesta un poco leerlo. Pero el líneas generales,aunque no se trata de una
 infografía perfecta, es una visualización adecuada.
 
 
-
+## Conclusión
 Para terminar, se explicará la elección de las infografías. Ambas fueron creadas y
 publicadas por el departamento de Infografía del periódico El Mundo. Por lo que
 las visualizaciones seleccionadas demuestran que porque provengan de medios
