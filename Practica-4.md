@@ -1,4 +1,4 @@
-#Práctica 3 y 4
+# Práctica 3 y 4
 ## Introducción
 Este análisis estará dividido en dos partes diferenciadas. La primera explicará los pasos que he seguido para hacer los gráficos, comenzando con la obtención de los datos, a continuación una limpieza de datos y una buena utilización de la aplicación OpenRefine, la posterior creación de las visualizaciones a través de Datawrapper gracias a los datos obtenidos y por últimos, hacer un documento escrito  con toda la información explicada subida a la Terminal para que aparezca directamente en Github. La segunda parte será una profunda justificación de los datos escogidos y de la tipografía de las visualizaciones.
 
