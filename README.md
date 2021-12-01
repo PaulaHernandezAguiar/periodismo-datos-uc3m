@@ -7,3 +7,4 @@ Aquí se podrán encontrar los trabajos y visualizaciones de la alumna **Paula M
 - infografias_segundo_trabajo
 - Práctica-4
 - img (carpeta de imágenes utilizadas en los trabajos)
+- docs 
