@@ -133,7 +133,7 @@ Y en último lugar, la estructura de carpetas del servidor web, es decir, todo l
 ## 83. Apunta tres comandos que hayas utilizado y para qué.
 - Mv: para mover, es decir cortar y pegar en un destino concreto, su comportamiento sería: mv ruta/s-origen ruta-destino.
 - Cp: para copiar, su comportamiento sería: cp ruta/s-origen ruta-destino.
--Ls: para listar los archivos y directorios (para saber qué tenemos), por ejemplo, si queremos saber qué tenemos dentro de un directorio, (entramos en él con cd (como ya se explicó anteriormente) periodismodedatos (por ejemplo)) y escribimos ls, y nos aparece todos los archivos y carpetas que tenemos dentro de este directorio.
+- Ls: para listar los archivos y directorios (para saber qué tenemos), por ejemplo, si queremos saber qué tenemos dentro de un directorio, (entramos en él con cd (como ya se explicó anteriormente) periodismodedatos (por ejemplo)) y escribimos ls, y nos aparece todos los archivos y carpetas que tenemos dentro de este directorio.
 
 
 ## 92. ¿Qué harías si al ejecutar un comando te salta el aviso "command not found”?
